@@ -1,0 +1,16 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+#gameboard{
+	background: #000;
+	margin: 0px;
+}
+.score
+{
+	position: relative;
+	top:-30px;
+	color:#fff;
+	font-size: 20px;
+}
